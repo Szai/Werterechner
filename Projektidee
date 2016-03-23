@@ -1,0 +1,3 @@
+Unsere Idee beruht auf einem Pen&Paper Rollenspiel, welches wir im Zusammenhang dem MG Projekt begonnen haben und zur Zeit entwickeln.
+Wir wollen ein Interface mit Wertekalkulator erstellen, der die Würfeltests im Spiel selbst vereinfacht.
+Da wir die Schwierigkeit des Tests aus den Werten des eigenen Charakters und dem entsprechenden Wert des Gegners berechnen, wäre eine Vereinfachung des Prozesses sehr förderlich fur unser Spiel. Man soll letzlich nur die Werte eintragen. Die entsprechende Schwierigkeit soll dann von dem Programm ermittelt werden. Zusätzlich könnten wir uns vorstellen, dass ein Würfel geworfen wird, um zu sehen, ob der Test dann auch bestanden ist, das ist jedoch optional.
